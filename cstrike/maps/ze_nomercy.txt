@@ -1,0 +1,9 @@
+NoMercy - Zombie Escape
+ported by bog // gamebanana.com/members/1429544
+entity work by NeXuS // https://gamebanana.com/members/2869213
+
+Survivors: Stay alive and go to the helicopter!
+
+Zombies: Infect everyone and don't let them escape!
+
+hf, bog
