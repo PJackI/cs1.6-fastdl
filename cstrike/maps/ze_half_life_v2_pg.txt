@@ -1,0 +1,8 @@
+========= [ze_half_life_v2_pg] ========
+ Map made by xMoumen AKA *Baradock*
+====================================
+This map was originally ported from Half-Life original levels.
+The Half-Life levels used in this map are c0a0e , c1a0 , c2a1 ,c2a3d.
+This map is made for ProGaming.ba Community.
+Ip : 164.132.201.184:27015
+Website : www.progaming.ba

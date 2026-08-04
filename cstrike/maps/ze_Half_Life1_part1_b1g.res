@@ -1,0 +1,9 @@
+models/zombie_anthill/corpse1.mdl
+models/zombie_anthill/corpse2.mdl
+models/zombie_anthill/corpse5.mdl
+sound/zombie_anthill/com_go_noiseup.wav
+sound/zombie_anthill/tacticalnuke_incoming.wav
+sound/zombie_anthill/ScaryScreamer.wav
+sound/zombie_anthill/ze_ambiance1.wav
+sprites/flare1.spr
+sprites/laserbeam.spr

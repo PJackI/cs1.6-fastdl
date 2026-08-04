@@ -1,0 +1,9 @@
+ze_cdc_decontamination
+
+MAP BY MAVUIKA
+
+Attention all players, this CDC map have no button explosion but it will be automatically as "explosive decontamination device",
+which means for 3 minutes to explosion. And another one for buses, some players must be to get in the buses it would be survived.
+If you touch any ground here that will be the players will be death after explosive decontamination.
+
+Thank you for your cooperation!
